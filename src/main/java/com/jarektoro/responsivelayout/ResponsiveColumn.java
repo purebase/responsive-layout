@@ -3,7 +3,7 @@ package com.jarektoro.responsivelayout;
 import java.util.HashSet;
 import java.util.Set;
 
-import com.jarektoro.responsivelayout.Styleable.StyleableComponent;
+import com.jarektoro.responsivelayout.styleable.StyleableComponent;
 import com.vaadin.shared.Registration;
 import com.vaadin.ui.Component;
 import com.vaadin.ui.CssLayout;

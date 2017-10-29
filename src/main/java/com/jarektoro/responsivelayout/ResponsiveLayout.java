@@ -7,7 +7,6 @@ import com.vaadin.ui.CssLayout;
  * Created by JarekToro on 9/23/16.
  */
 
-@StyleSheet("styles.css")
 public class ResponsiveLayout extends CssLayout {
 
 	private static final String CSS_CONTAINER = "rl-container";
