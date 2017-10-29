@@ -1,20 +1,18 @@
-package com.jarektoro.responsivelayout.Styleable;
-
+package com.jarektoro.responsivelayout.styleable;
 
 import com.jarektoro.responsivelayout.ResponsiveLayout;
-import com.vaadin.ui.CustomComponent;
+import com.vaadin.ui.CssLayout;
 
 /**
  * Created by jarektoro on 11/22/16.
  */
-public class StyleableComponent extends CustomComponent {
+public class StyleableLayout extends CssLayout {
 
-	private static final long serialVersionUID = -5820909402047704207L;
+	private static final long serialVersionUID = -7409720799484798627L;
 	
 	private final VisibilityCSSAdapter visibilityCSSAdapter;
 
-    public StyleableComponent() {
-
+    public StyleableLayout() {
         visibilityCSSAdapter = new VisibilityCSSAdapter(this);
     }
 

@@ -1,4 +1,4 @@
-package com.jarektoro.responsivelayout.Styleable;
+package com.jarektoro.responsivelayout.styleable;
 
 import java.util.HashSet;
 import java.util.Set;

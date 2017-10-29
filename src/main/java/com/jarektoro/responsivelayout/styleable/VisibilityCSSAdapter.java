@@ -1,4 +1,4 @@
-package com.jarektoro.responsivelayout.Styleable;
+package com.jarektoro.responsivelayout.styleable;
 
 import com.jarektoro.responsivelayout.ResponsiveLayout;
 import com.vaadin.ui.Component;

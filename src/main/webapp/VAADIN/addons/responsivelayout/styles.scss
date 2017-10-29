@@ -1,0 +1,16 @@
+@import "container";
+@import "row";
+@import "col";
+@import "alignment";
+@import "visibility";
+@import "flex-css-layout";
+
+.rl {
+  @include container;
+  @include col;
+  @include row;
+  @include visibility;
+  @include alignment;
+}
+
+@include flex-css-layout;
